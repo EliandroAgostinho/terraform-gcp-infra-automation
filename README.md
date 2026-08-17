@@ -1,7 +1,9 @@
 📘 README.md — Automação da Implantação de Infraestrutura Usando Terraform (GCP)
+
 Projeto desenvolvido no laboratório Automação da Implantação de Infraestrutura Usando Terraform, demonstrando provisionamento automatizado, organização modular e boas práticas de IaC no Google Cloud.
 
 🚀 Visão Geral
+
 Este repositório contém a implementação completa do laboratório de automação de infraestrutura com Terraform no Google Cloud.
 O objetivo é demonstrar como o Terraform permite criar recursos cloud de forma declarativa, repetível e segura, eliminando configurações manuais e garantindo consistência entre ambientes.
 
