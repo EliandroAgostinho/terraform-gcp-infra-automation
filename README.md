@@ -41,6 +41,7 @@ tfinfra/
 └── .gitignore           # Exclusões (state, cache, etc.)
 
 ⚙️ Recursos Criados
+
 🖥️ Instância Compute Engine
   -Tipo: e2-micro
   
