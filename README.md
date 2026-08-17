@@ -31,6 +31,8 @@ Google Cloud Storage Bucket
 
 
 
+
+
 📂 Estrutura do Projeto
 
 tfinfra/
