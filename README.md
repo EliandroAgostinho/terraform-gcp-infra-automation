@@ -23,21 +23,9 @@ A infraestrutura provisionada inclui:
 
 🧱 Arquitetura dos Recursos
 
-
-┌──────────────────────────┐
-│  google_compute_instance  │
-│      terraform-instance   │
-└───────────────┬──────────┘
-                │
-                ▼
-
-
-
-┌──────────────────────────┐
-│   google_storage_bucket   │
-│       tf-bucket           │
-└──────────────────────────┘
-
+Compute Engine Instance
+    ↓
+Google Cloud Storage Bucket
 
 
 
