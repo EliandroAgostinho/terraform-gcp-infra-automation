@@ -24,7 +24,8 @@ A infraestrutura provisionada inclui:
 🧱 Arquitetura dos Recursos
 
 Compute Engine Instance
-    ↓
+    
+  ↓
 
 Google Cloud Storage Bucket
 
