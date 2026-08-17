@@ -21,6 +21,10 @@ A infraestrutura provisionada inclui:
 
 
 
+
+
+
+
 🧱 Arquitetura dos Recursos
 
 Compute Engine Instance
@@ -28,6 +32,9 @@ Compute Engine Instance
   ↓
 
 Google Cloud Storage Bucket
+
+
+
 
 
 
@@ -43,6 +50,9 @@ tfinfra/
 ├── bucket.tf
 ├── outputs.tf
 └── .gitignore
+
+
+
 
 
 
