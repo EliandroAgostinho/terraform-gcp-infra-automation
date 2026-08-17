@@ -35,16 +35,19 @@ Google Cloud Storage Bucket
 
 📂 Estrutura do Projeto
 
+
 tfinfra/
-│
-├── provider.tf          # Configuração do provider Google Cloud
-├── variables.tf         # Variáveis utilizadas nos recursos
-├── instance.tf          # Instância Compute Engine
-├── bucket.tf            # Bucket GCS
-├── outputs.tf           # Outputs do Terraform
-└── .gitignore           # Exclusões (state, cache, etc.)
+├── provider.tf
+├── variables.tf
+├── instance.tf
+├── bucket.tf
+├── outputs.tf
+└── .gitignore
+
+
 
 ⚙️ Recursos Criados
+
 
 🖥️ Instância Compute Engine
   -Tipo: e2-micro
