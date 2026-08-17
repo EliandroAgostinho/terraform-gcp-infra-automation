@@ -7,6 +7,8 @@ Projeto desenvolvido no laboratório Automação da Implantação de Infraestrut
 Este repositório contém a implementação completa do laboratório de automação de infraestrutura com Terraform no Google Cloud.
 O objetivo é demonstrar como o Terraform permite criar recursos cloud de forma declarativa, repetível e segura, eliminando configurações manuais e garantindo consistência entre ambientes.
 
+
+
 A infraestrutura provisionada inclui:
 
 -Uma instância Compute Engine
@@ -18,7 +20,9 @@ A infraestrutura provisionada inclui:
   -Fluxo completo de init → plan → apply → destroy
 
 
+
 🧱 Arquitetura dos Recursos
+
 
 ┌──────────────────────────┐
 │  google_compute_instance  │
@@ -26,10 +30,16 @@ A infraestrutura provisionada inclui:
 └───────────────┬──────────┘
                 │
                 ▼
+
+
+
 ┌──────────────────────────┐
 │   google_storage_bucket   │
 │       tf-bucket           │
 └──────────────────────────┘
+
+
+
 
 📂 Estrutura do Projeto
 
